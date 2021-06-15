@@ -2,3 +2,7 @@ train
 test
 data
 .ipynb_checkpoints
+embedding.gz
+data*
+can_embeddings.pt
+term_input_ids.pt
